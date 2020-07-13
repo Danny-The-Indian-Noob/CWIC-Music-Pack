@@ -1,0 +1,258 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.65
+}
+# MODDED
+
+music = {
+	name = "nef_mus_oceania"
+	file = "nef_mus_oceania.ogg"
+	volume = 0.9
+}
+music = {
+	name = "nef_mus_eurasia"
+	file = "nef_mus_eurasia.ogg"
+	volume = 1.0
+}
+music = {
+	name = "nef_mus_eastasia"
+	file = "nef_mus_eastasia.ogg"
+	volume = 1.0
+}
+music = {
+	name = "nef_mus_resistance"
+	file = "nef_mus_resistance.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "nef_mus_minilove"
+	file = "nef_mus_minilove.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "nef_pec_hiking"
+	file = "nef_pec_hiking.ogg"
+	volume = 1.4
+}
+
+music = {
+	name = "nef_pec_bitterearth"
+	file = "nef_pec_bitterearth.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "nef_pec_deadlight"
+	file = "nef_pec_deadlight.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "nef_pec_nocturne"
+	file = "nef_pec_nocturne.ogg"
+	volume = 1.2
+}
+
+music = {
+	name = "nef_pec_silver"
+	file = "nef_pec_silver.ogg"
+	volume = 0.95
+}
+music = {
+	name = "nef_pec_theroad"
+	file = "nef_pec_theroad.ogg"
+	volume = 0.95
+}
+music = {
+	name = "nef_pec_beholder"
+	file = "nef_pec_beholder.ogg"
+	volume = 1.0
+}
+music = {
+	name = "nef_pec_bigbrother"
+	file = "nef_pec_bigbrother.ogg"
+	volume = 1.15
+}
+
+music = {
+	name = "nef_mus_time"
+	file = "nef_mus_time.ogg"
+	volume = 0.9
+}
+
+music = {
+	name = "nef_war_mladic"
+	file = "nef_war_mladic.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "nef_war_wedrift"
+	file = "nef_war_wedrift.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "nef_war_canabalt"
+	file = "nef_war_canabalt.ogg"
+	volume = 0.7
+}
+
+music = {
+	name = "nef_war_mcmlxxxii"
+	file = "nef_war_mcmlxxxii.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "nef_war_override"
+	file = "nef_war_override.ogg"
+	volume = 0.65
+}
+music = {
+	name = "nef_war_eidolon"
+	file = "nef_war_eidolon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "nef_war_police"
+	file = "nef_war_police.ogg"
+	volume = 0.95
+}
+
+# General Peace:
+music = {
+	name = "general_peace_1"
+	file = "general_peace_heartsofmen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_2"
+	file = "thewarends.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_peace_3"
+	file = "asongforthechildrenofww2.ogg"
+	volume = 0.65
+}
+
+# General war:
+music = {
+	name = "general_war_1"
+	file = "general_war_bringforththetanks.ogg"
+	volume = 0.65
+}
+music = {
+	name = "general_war_2"
+	file = "general_war_theattack.ogg"
+	volume = 0.65
+}
+
+
+# Allies Peace:
+music = {
+	name = "allies_peace_1"
+	file = "allies_peace_morningofdday.ogg"
+	volume = 0.65
+}
+music = {
+	name = "allies_peace_2"
+	file = "endofthetour.ogg"
+	volume = 0.65
+}
+
+
+# Allies War:
+music = {
+	name = "allies_war_1"
+	file = "wearesoldiers.ogg"
+	volume = 0.65
+}
+music = {
+	name = "allies_war_2"
+	file = "allies_war_theroyalairforce.ogg"
+	volume = 0.65
+}
+
+
+# Axis Peace:
+music = {
+	name = "axis_peace_1"
+	file = "axis_peace_krakow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "axis_peace_2"
+	file = "luftwaffemarch_reprise.ogg"
+	volume = 0.65
+}
+
+
+# Axis War:
+music = {
+	name = "axis_war_1"
+	file = "axistheme.ogg"
+	volume = 0.65
+}
+music = {
+	name = "axis_war_2"
+	file = "heavywater.ogg"
+	volume = 0.65
+}
+music = {
+	name = "axis_war_3"
+	file = "operationbarbarossa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "axis_war_4"
+	file = "war_axis_1_daysofthunder.ogg"
+	volume = 0.65
+}
+
+
+# Comintern Peace:
+
+music = {
+	name = "comintern_peace_1"
+	file = "motherrussia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "comintern_peace_2"
+	file = "theredarmy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "comintern_peace_3"
+	file = "sovietvictory.ogg"
+	volume = 0.65
+}
+
+# Comintern War:
+
+music = {
+	name = "comintern_war_1"
+	file = "themightofsovietunion.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "comintern_war_2"
+	file = "cominterntheme.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "comintern_war_3"
+	file = "thegreatpatrioticwar.ogg"
+	volume = 0.65
+}

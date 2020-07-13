@@ -1,0 +1,493 @@
+#################### Mod songs
+#
+### War or Peace
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 5
+		}		
+	}
+}
+
+music = {
+	song = "nef_mus_oceania"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
+music = {
+	song = "nef_mus_eurasia"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = communism
+		}		
+	}
+}
+
+music = {
+	song = "nef_mus_eastasia"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = fascism
+		}		
+	}
+}
+
+music = {
+	song = "nef_mus_resistance"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = neutrality
+		}		
+	}
+}
+
+music = {
+	song = "nef_mus_minilove"
+	chance = {
+		modifier = {
+			factor = 5
+		}		
+	}
+}
+
+music = {
+	song = "nef_mus_time"
+	chance = {
+		modifier = {
+			factor = 5
+			
+		}		
+	}
+}
+
+### Peace only
+music = {
+	song = "nef_pec_hiking"
+	chance = {
+		modifier = {
+			factor = 5
+		}		
+	}
+}
+
+music = {
+	song = "nef_pec_bitterearth"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = no
+		}		
+	}
+}
+music = {
+	song = "nef_pec_deadlight"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = no
+		}		
+	}
+}
+music = {
+	song = "nef_pec_nocturne"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = no
+		}		
+	}
+}
+
+music = {
+	song = "nef_pec_silver"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = no
+		}		
+	}
+}
+music = {
+	song = "nef_pec_theroad"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = no
+		}		
+	}
+}
+music = {
+	song = "nef_pec_beholder"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = no
+		}		
+	}
+}
+music = {
+	song = "nef_pec_bigbrother"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = no
+		}		
+	}
+}
+### War only
+music = {
+	song = "nef_war_mladic"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "nef_war_wedrift"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "nef_war_canabalt"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "nef_war_mcmlxxxii"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "nef_war_override"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "nef_war_eidolon"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "nef_war_police"
+	chance = {
+		modifier = {
+			factor = 5
+			
+			has_war = yes
+		}		
+	}
+}
+############# Vanilla music
+music = {
+	song = "general_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "general_peace_2"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "general_peace_3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}		
+	}
+}
+
+music = {
+	song = "allies_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}		
+	}	
+}
+
+music = {
+	song = "allies_peace_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}		
+	}	
+}
+
+music = {
+	song = "axis_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascist
+		}		
+	}	
+}
+
+music = {
+	song = "axis_peace_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascist
+		}		
+	}	
+}
+
+# WAR SONGS ####################
+
+music = {
+	song = "general_war_1"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "general_war_2"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "axis_war_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = fascist
+		}		
+	}	
+}
+
+music = {
+	song = "axis_war_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = fascist
+		}		
+	}	
+}
+
+music = {
+	song = "axis_war_3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = fascist
+		}		
+	}	
+}
+
+music = {
+	song = "axis_war_4"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = fascist
+		}		
+	}	
+}
+
+music = {
+	song = "allies_war_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = democratic
+		}		
+	}	
+}
+
+music = {
+	song = "allies_war_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = democratic
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_peace_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_peace_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_peace_3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+
+
+music = {
+	song = "comintern_war_1"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_war_2"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = communism
+		}		
+	}	
+}
+
+music = {
+	song = "comintern_war_3"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = yes
+			has_government = communism
+		}		
+	}	
+}
