@@ -4,3 +4,4 @@ tags={
 	"Sound"
 }
 supported_version="1.9"
+replace_path="soundtrack"
