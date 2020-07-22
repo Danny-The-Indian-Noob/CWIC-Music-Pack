@@ -1,0 +1,65 @@
+
+music_station = "bastion_of_democracy"
+
+# BASTION OF DEMOCRACY SONGS ##################
+
+music = {
+	song = "Across_Time"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
+
+music = {
+	song = "Air_Force"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
+
+music = {
+	song = "Carrier_of_Sentient"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
+
+music = {
+	song = "Fighting_Lady"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
+
+music = {
+	song = "Strategic_Air_Midnight"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
+
+music = {
+	song = "United_States50s"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
+

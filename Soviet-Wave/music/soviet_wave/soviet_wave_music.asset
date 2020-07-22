@@ -1,0 +1,88 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.65
+}
+
+# Soviet Wave:
+
+music = {
+	name = "combined_arms"
+	file = "combined_arms.ogg"
+	volume = 0.9
+}
+music = {
+	name = "Corrupted_by_Design_USSR"
+	file = "Corrupted_by_Design_USSR.ogg"
+	volume = 1.0
+}
+music = {
+	name = "DAMANSKY'69"
+	file = "DAMANSKY'69.ogg"
+	volume = 1.0
+}
+music = {
+	name = "Great_Patriotic_War_USSR"
+	file = "Great_Patriotic_War_USSR.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "Jet_Engine"
+	file = "Jet_Engine.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "JUMP_AT_DAWN"
+	file = "JUMP_AT_DAWN.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "Last_Days_of_War"
+	file = "Last_Days_of_War.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "Moscow'53"
+	file = "Moscow'53.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "Post_War_Doctrine"
+	file = "Post_War_Doctrine.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "Stalin_Army"
+	file = "Stalin_Army.ogg"
+	volume = 0.95
+}
+music = {
+	name = "Stalingrad"
+	file = "Stalingrad.ogg"
+	volume = 0.95
+}
+music = {
+	name = "Terrible_Times_USSR"
+	file = "Terrible_Times_USSR.ogg"
+	volume = 1.0
+}
+music = {
+	name = "Who_Will_Save_The_World_USSR"
+	file = "Who_Will_Save_The_World_USSR.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "Zet-Tigers"
+	file = "Zet-Tigers.ogg"
+	volume = 1.0
+}
+

@@ -1,0 +1,36 @@
+
+# Bastion of Democracy:
+
+music = {
+	name = "Across_Time"
+	file = "Across_Time.ogg"
+	volume = 0.9
+}
+music = {
+	name = "Air_Force"
+	file = "Air_Force.ogg"
+	volume = 1.0
+}
+music = {-
+	name = "Carrier_of_Sentient"
+	file = "Carrier_of_Sentient.ogg"
+	volume = 1.0
+}
+music = {
+	name = "Fighting_Lady"
+	file = "Fighting_Lady.ogg"
+	volume = 1.0
+}
+
+music = {
+	name = "Strategic_Air_Midnight"
+	file = "Strategic_Air_Midnight.ogg"
+	volume = 0.85
+}
+
+music = {
+	name = "United_States50s"
+	file = "United_States50s.ogg"
+	volume = 1.0
+}
+
