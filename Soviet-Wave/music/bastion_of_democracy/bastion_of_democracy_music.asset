@@ -34,3 +34,10 @@ music = {
 	volume = 1.0
 }
 
+
+music = {
+	name = "Without_Depression"
+	file = "Without_Depression.ogg"
+	volume = 1.0
+}
+

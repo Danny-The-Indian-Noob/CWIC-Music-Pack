@@ -63,3 +63,12 @@ music = {
 	}
 }
 
+music = {
+	song = "Without_Depression"
+	chance = {
+		modifier = {
+			factor = 5
+			has_government = democratic
+		}		
+	}
+}
